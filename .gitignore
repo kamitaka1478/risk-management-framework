@@ -146,3 +146,9 @@ Thumbs.db
 /logs/
 /tmp/
 *.pid
+
+# Test files
+test_*.py
+test_*.txt
+check_db.py
+check_*.py
